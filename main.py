@@ -1,5 +1,5 @@
 import pyttsx3,PyPDF2
-
+#very important project
 PdfReader = PyPDF2.PdfReader(open('book.pdf','rb'))
 speaker = pyttsx3.init()
 
